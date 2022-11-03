@@ -9,6 +9,8 @@
 #pieDePagina{
     background-color: rgb(43, 42, 92);
     width: 100%;
+    position: fixed;
+    bottom: 0;
 }
 
 #bot{
