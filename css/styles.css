@@ -1,0 +1,17 @@
+#option {
+    color: #eceff0;
+}
+
+#option:hover{
+    color: rgb(72, 218, 72);
+}
+
+#pieDePagina{
+    background-color: rgb(43, 42, 92);
+    width: 100%;
+}
+
+#bot{
+    background-color: rgb(132, 190, 43);
+}
+
