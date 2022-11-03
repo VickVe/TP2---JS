@@ -1,6 +1,8 @@
 // Function Delete
 function fDelete(){
     document.getElementById("myForm").reset();
+    var textoTotal = document.getElementById("total");
+    textoTotal.innerHTML = "Total a Pagar: $ ";
 }
 
 // Function Calculate
